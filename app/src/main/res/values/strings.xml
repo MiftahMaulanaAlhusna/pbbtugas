@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas Menghitung</string>
+    <string name="label">Tugas Menghitung</string>
+    <string name="alas">Panjang/Alas/Diameter</string>
+    <string name="tinggi">Lebar/Tinggi</string>
+    <string name="segitiga">HITUNG SEGITIGA</string>
+    <string name="persegi">HITUNG PERSEGI</string>
+    <string name="lingkaran">HITUNG LINGKARAN</string>
+
+
+
+</resources>
